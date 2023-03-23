@@ -11,31 +11,15 @@ const navData = [
   },
   {
     url: "/about",
-    name: "About",
+    name: "About Us",
   },
   {
-    url: "/membership",
-    name: "Membership",
+    url: "/services",
+    name: "Services",
   },
   {
-    url: "/certification",
-    name: "Certification",
-  },
-  {
-    url: "/events",
-    name: "Events",
-  },
-  {
-    url: "/photos",
-    name: "Photos",
-  },
-  {
-    url: "/Insight",
-    name: "Insight",
-  },
-  {
-    url: "/contact",
-    name: "Contact",
+    url: "/blog",
+    name: "Blog",
   },
 ];
 
