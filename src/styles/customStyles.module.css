@@ -1,0 +1,16 @@
+.rounded {
+  background: conic-gradient(
+    from 156.48deg at -106.67% -147.92%,
+    #f5f5f5 0deg,
+    #bea0b4 252.54deg,
+    #c6acbe 289.17deg,
+    #621047 359.96deg,
+    #f5f5f5 360deg
+  );
+  height: 90em;
+  width: 90em;
+  border-radius: 100%;
+  position: absolute;
+  transform: translate(60em, -40em);
+  z-index: 0;
+}
